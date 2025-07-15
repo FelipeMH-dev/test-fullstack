@@ -1,6 +1,6 @@
 # 🧾 Listado de Ítems - React + TypeScript + TailwindCSS
 
-Este proyecto es una aplicación frontend construida con **React**, **TypeScript** y **Vite**, que muestra un listado de ítems con la siguiente información:
+Este proyecto es una aplicación frontend construida con **React**, **TypeScript** y **Vite**, que muestra un listado de ítems ordenados por fecha con la siguiente información:
 
 - ID
 - Fecha
@@ -19,6 +19,7 @@ Este proyecto es una aplicación frontend construida con **React**, **TypeScript
 - Pruebas unitarias con **Jest** y **React Testing Library**
 - Soporte para modo claro y modo oscuro
 - Uso de alias personalizados para imports (`@components`, `@features`, etc.)
+- Rutas
 
 ---
 
@@ -38,6 +39,7 @@ cd frontend
 npm install
 
 ## Agregar .env con las siguientes variables
+
 VITE_API_URL=http://localhost:4000/api
 VITE_API_KEY=4765e015468db0c6a5cbce48542a14e8
 VITE_CUSTOM_HEADER=mycustomheader123

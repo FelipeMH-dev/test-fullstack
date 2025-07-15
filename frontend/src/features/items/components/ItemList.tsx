@@ -20,7 +20,9 @@ export const ItemList = () => {
     return (
       <div className="max-w-md mx-auto mt-10">
         <div className="rounded-2xl shadow-md p-6 bg-white text-center border border-gray-200  dark:bg-gray-900 dark:text-white dark:border-gray-900">
-          <p className="text-gray-500 text-lg font-medium"><PropagateLoader color="#527bc0" size={10} /></p>
+          <p className="text-gray-500 text-lg font-medium">
+            <PropagateLoader color="#527bc0" size={10} />
+          </p>
         </div>
       </div>
     );

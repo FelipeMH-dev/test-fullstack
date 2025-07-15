@@ -24,6 +24,7 @@ Los datos se sirven desde un archivo JSON simulado como si fuese una base de dat
 - [Jest](https://jestjs.io/) + [Supertest](https://github.com/visionmedia/supertest)
 - [Arquitectura por capas](https://en.wikipedia.org/wiki/Multitier_architecture) (Domain, Repository, Service, Infrastructure, API)
 - Manejo de errores estructurado con middlewares
+- Las peticiones a esta API requieren un token de autenticación
 
 ---
 
@@ -44,6 +45,7 @@ cd backend
 npm install
 
 ## Agregar .env con las siguientes variables
+
 API_KEY=4765e015468db0c6a5cbce48542a14e8
 CUSTOM_HEADER=mycustomheader123
 PORT=4000
