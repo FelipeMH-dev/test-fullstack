@@ -40,15 +40,15 @@ Los datos se sirven desde un archivo JSON simulado como si fuese una base de dat
 
 ## ⚙️ Instalación
 
-git clone https://github.com/FelipeMH-dev/test-fullstack.git
-cd backend
-npm install
+- git clone https://github.com/FelipeMH-dev/test-fullstack.git
+- cd backend
+- npm install
 
 ## Agregar .env con las siguientes variables
 
-API_KEY=4765e015468db0c6a5cbce48542a14e8
-CUSTOM_HEADER=mycustomheader123
-PORT=4000
+- API_KEY=4765e015468db0c6a5cbce48542a14e8
+- CUSTOM_HEADER=mycustomheader123
+- PORT=4000
 
 ## 💻 Ejecutar servidor de desarrollo
 

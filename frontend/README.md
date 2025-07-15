@@ -34,15 +34,15 @@ Este proyecto es una aplicación frontend construida con **React**, **TypeScript
 
 Clona el repositorio e instala las dependencias:
 
-git clone https://github.com/FelipeMH-dev/test-fullstack.git
-cd frontend
-npm install
+- git clone https://github.com/FelipeMH-dev/test-fullstack.git
+- cd frontend
+- npm install
 
 ## Agregar .env con las siguientes variables
 
-VITE_API_URL=http://localhost:4000/api
-VITE_API_KEY=4765e015468db0c6a5cbce48542a14e8
-VITE_CUSTOM_HEADER=mycustomheader123
+- VITE_API_URL=http://localhost:4000/api
+- VITE_API_KEY=4765e015468db0c6a5cbce48542a14e8
+- VITE_CUSTOM_HEADER=mycustomheader123
 
 ## 💻 Levantar el servidor de desarrollo
 
