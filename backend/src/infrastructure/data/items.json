@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "date": "2025-07-13",
+    "fullName": "Felipe Mansilla",
+    "amount": 1500,
+    "country": "Chile",
+    "agentType": "Agente A",
+    "status": "Activo"
+  },
+  {
+    "id": 2,
+    "date": "2025-07-14",
+    "fullName": "Ana Pérez",
+    "amount": 2300,
+    "country": "Argentina",
+    "agentType": "Agente B",
+    "status": "Inactivo"
+  },
+  {
+    "id": 3,
+    "date": "2025-07-13",
+    "fullName": "Felipe Henríquez",
+    "amount": 1400,
+    "country": "Chile",
+    "agentType": "Agente C",
+    "status": "Activo"
+  },
+  {
+    "id": 4,
+    "date": "2025-07-10",
+    "fullName": "Ana Vasquez",
+    "amount": 6400,
+    "country": "Argentina",
+    "agentType": "Agente D",
+    "status": "Pendiente"
+  },
+  {
+    "id": 5,
+    "date": "2025-07-12",
+    "fullName": "Felipe carrillo",
+    "amount": 3400,
+    "country": "Argentina",
+    "agentType": "Agente E",
+    "status": "Pendiente"
+  }
+]
